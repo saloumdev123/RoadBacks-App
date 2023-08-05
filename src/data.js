@@ -1,7 +1,7 @@
 import img1 from "./images/tour-1.jpeg";
 import img2 from "./images/tour-2.jpeg";
-import img3 from "./images/tour-8.jpeg";
-import img4 from "./images/tour-9.jpeg";
+import img3 from "./images/tour-8.jpg";
+import img4 from "./images/tour-9.jpg";
 
 export const PageLink = [
   { id: 1, href: "#home", text: "home" },
